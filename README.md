@@ -18,9 +18,18 @@ This project, ‘Empowering Student Success through Data’, leverages the power
 <h2> EXPLORATORY DATA ANALYSIS</h2>
 <li> Checking the dataset (# Rows & # Columns)</li>
 <li> Dataset Information (Checking for features & Null values)</li>
-<li> Reading the first 5 rows- Describe Dataset ( To check the mean, minimum & maximum values)- Number of Columns
+<li> Reading the first 5 rows</li>
+<li> Describe Dataset ( To check the mean, minimum & maximum values)</li>
+<li> Number of Columns</li>
 
 <img src= "https://i.imgur.com/J88xQTD.png" width="1000">
 <font color="blue"> <strong> Observations : </strong> 
         <li> There are 1000 Rows and 8 Columns in this dataset</li>
-    
+
+<img src= "https://i.imgur.com/2tz4FY9.png" width="1000">
+    <font color="blue"> <strong> Observations : </strong> 
+
+<li> Excluding reading score , there are some students who have scored as low as 0 in writing & maths</li>
+<li> There are students who have outperformed with a max score of 100 </li>
+<li> Average value for all subjects are in range of 60's- 25th percentile of the class score fall in 57 and above category</li>
+<li> 75th percentile of the class have scored 77 and above</li>
